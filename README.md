@@ -1,23 +1,29 @@
 # Jahan R. Khan
-**Automation Engineer | Python Developer | E-commerce Systems Specialist**
 
-Expert in building high-volume automation engines, data scrapers, and business intelligence dashboards. I specialize in turning complex manual workflows into automated solutions that drive ROI and operational precision.
+I build practical tools for IT operations, e-commerce workflows, and AI-assisted support teams.
 
-## 🚀 Key Skills
-* **Languages & Frameworks:** Python (Scrapy, Selenium, BS4, Pandas), SQL, JavaScript.
-* **Automation & RPA:** Large-scale scraping (20k+ links/night), API Integration, Hardcoded Chatbots.
-* **Systems & E-commerce:** Shopify Plus, ERP Systems (SiteGiant), Inventory Automation.
-* **Strategy:** Leading high-performance technical teams, Anti-Bot Bypassing (Shopee, Cloudflare), ROI Optimization.
+My work focuses on the systems businesses actually run every day: order flow, inventory checks, support routing, incident response, internal dashboards, and lightweight automation that reduces manual work.
 
-## 🛠 Featured Projects
-* **[Mega-Scraper Engine](https://github.com/NaiveBayesEncrypted/mega-scraper-engine):** A modular Scrapy framework for high-volume competitor analysis.
-* **Calgary Market Insights:** Real-time data extraction for rental and job markets.
+## Focus Areas
 
-## 📊 Impact
-* Reduced manual workload by **60%** for 70+ employee organizations.
-* Scaled e-commerce operations to **300%+ ROI** through data-driven automation.
-* Mentored teams of Master's level engineers to deliver scalable technical infrastructure.
+- IT support and operations tooling
+- E-commerce automation and reconciliation
+- AI-assisted support workflows
+- Dashboards, metrics, and operational reporting
+- Python, TypeScript, React, Node.js, SQLite, and API-driven workflows
 
----
-📫 **How to reach me:** [jahanzaib.r.khan@proton.me](mailto:jahanzaib.r.khan@proton.me) | [LinkedIn](https://www.linkedin.com/in/jahanzaib-r/)
- Calgary, AB | Authorized to work in Canada
+## Featured Projects
+
+- [CounselGrid](https://github.com/NaiveBayesEncrypted/counselgrid): AI support assistant with retrieval, citations, metrics, evals, tests, and a React/Express app structure.
+- [Retail & E-com Ops Command Center](https://github.com/NaiveBayesEncrypted/retail-ecom-ops-command-center): SQLite-backed operations dashboard for orders, stock, tickets, errors, and SLA alerts.
+- [Multi-Store E-commerce Automation Hub](https://github.com/NaiveBayesEncrypted/multistore-ecommerce-automation-hub): Python sync service that normalizes multiple store feeds and flags inventory/price issues.
+- [OpsPilot](https://github.com/NaiveBayesEncrypted/opspilot): incident triage cockpit with runbook matching, risk signals, and approval-gated remediation.
+- [SecureSaaS AI](https://github.com/NaiveBayesEncrypted/securesaas-ai): SaaS control-plane demo for AI usage limits, roles, plans, and audit logs.
+- [Jahan Khan Portfolio](https://github.com/NaiveBayesEncrypted/jahan-khan-portfolio): personal portfolio site and project index.
+
+## Current Direction
+
+I am tightening the portfolio around a simple story: technical operator who can support systems, automate workflows, and build useful internal tools for retail, e-commerce, and service businesses.
+
+Calgary, Canada  
+[LinkedIn](https://www.linkedin.com/in/jahanzaib-r/) | [Email](mailto:jahanzaib.r.khan@proton.me)
